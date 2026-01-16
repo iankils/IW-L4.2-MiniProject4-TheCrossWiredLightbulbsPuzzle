@@ -2,13 +2,13 @@
 The goal is simple, turn on all the lights! That would be simple if every switch turned on the single light that was above it. However, almost every switch in this lab does just the opposite of what you would expect. First, you'll have to do something evil and program the lights to be mismatched, then you will try to get all of them on. After, in the extensions, there will be some fun ways to spice up the challenge.
 
 ## Rubric
-| Grade | Criteria |
-|:------|:-----|
-| 0 | Nothing completed or submitted|
-| 65-85 | Steps 1-7 |
-| 90 | Mild |
-| 95 | Medium |
-| 100 | Spicy |
+| Grade | Criteria | Description |
+|:------|:-----|:-----|
+| 0 | Nothing completed or submitted| N/A |
+| 65-85 | Steps 1-7 | All switches working |
+| 90 | Mild | Fix Switch 5 |
+| 95 | Medium | Master Switch & Restart |
+| 100 | Spicy | Randomize & Background |
 
 ## Directions 
 Utilize the Starter Code. There are 9 lights as numbered in the image below. The steps below will guide you to connect switch 1 with light 3 and light 8. Then, follow the same pattern to connect the other switches as indicated below.
